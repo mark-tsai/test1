@@ -6,7 +6,7 @@ import android.view.Menu;
 
 public class MainActivity extends Activity {
 	private static final String TAG = "MainActivity";
-	// test from mdm workspace 2
+	// test from mdm workspace 3
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
